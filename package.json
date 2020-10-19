@@ -1,0 +1,25 @@
+{
+
+  "name": "Novian Game Collection",
+
+  "description": "A bot dedicated to letting you play classic games! Made with JavaScript.",
+
+  "version": "1.0.1",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "start": "node index.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
+  }
+
+}
